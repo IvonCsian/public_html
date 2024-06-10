@@ -1,4 +1,4 @@
-<?php //error_reporting(0);
+<?php
   ob_start();
   session_start();
   include_once 'sw-library/sw-config.php';
